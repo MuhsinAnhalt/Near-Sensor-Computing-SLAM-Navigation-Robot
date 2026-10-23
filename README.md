@@ -1,4 +1,4 @@
-# 🤖 感内计算 SLAM 导航机器人 (Edge-SLAM Robot)
+# 🤖 近感计算SLAM导航机器人 (Edge-SLAM Robot)
 
 > **2026 全国大学生嵌入式芯片与系统设计竞赛 - AMD 具身智能赛道参赛项目**
 
